@@ -1,0 +1,787 @@
+@media all and (Max-width:600px)
+
+{  /*aduit*/
+    .aduit .customer {width: 70%;}
+    .aduit .left-content{padding: 5px;}
+    .aduit .left-content p,.aduit .right-content span{ font-size: 10px;}
+    .aduit .leftMenu ul li i{font-size: 25px;}
+    .aduit .fa-desktop{margin-left: 15px;}
+    .aduit .right-content{padding-top: 30px;}
+    .aduit .right-content i{font-size: 13px;padding: 5px 6px;}
+    .aduit .right-content .icon{width: 30px;height: 30px;margin-top: 0 !important;}
+     /*aduit overlay*/
+     .aduit-overlay .customer {width: 68%;}
+    .aduit-overlay .left-content{padding: 5px;}
+    .aduit-overlay .left-content p,.aduit-overlay .right-content span{font-size: 10px;}
+    .menue-ovrlay .leftMenu ul li i{font-size: 25px;}
+    .menue-ovrlay .fa-desktop{margin-left: 15px;}
+    .aduit-overlay .right-content{padding-top: 30px;}
+    .aduit-overlay .right-content i{ font-size: 10px; padding: 5px 3px; transform:translateY(-8px) ; -webkit-transform:translateY(-8px) ; -moz-transform:translateY(-8px) ; -ms-transform:translateY(-8px) ; -o-transform:translateY(-8px) ; }
+    .aduit-overlay .right-content .icon{width: 20px;height: 20px;margin-top: 0 !important;}
+    .aduit-overlay .box-content{ top: 11%; right: 11.5%;}
+    /*dashboard*/
+    .dash .customer {width: 68%;}
+    .dash .left-content{padding: 5px;}
+    .dash .left-content p,.dash .right-content span{
+        font-size: 10px;
+    }
+    .dash .leftMenu ul li i{font-size: 25px;}
+    .dash .fa-desktop{margin-left: 15px;}
+    .dash .right-content{padding-top: 30px;}
+    .dash .right-content i{font-size: 13px;padding: 5px 6px;}
+    .dash .right-content .icon{width: 30px;height: 30px;margin-top: 0 !important;}
+    .dash .notification{margin-top: 0 !important;}
+    .dash .notification h3,.dash .certification h4{font-size: 13px;}
+    .dash .content p,.dash .certification-titel p{font-size: 6px;margin-left: 2px !important;}
+    .dash .content i,.certification-titel i{font-size: 10px; padding: 3px 4px; margin: 7px 8px 7px 0;}
+    .dash .calendar{margin-top: 0 !important;}
+    .dash .certification-content{margin-top: 10px !important;}
+    /*dash-overlay*/
+    .dash-overlay2 .customer {width: 68%;}
+    .dash-overlay2 .left-content{padding: 5px;}
+    .dash-overlay2 .left-content p,.dash-overlay2 .right-content span{font-size: 10px; }
+    .dash-overlay2 .leftMenu ul li i{font-size: 25px;}
+    .dash-overlay2 .fa-desktop{margin-left: 15px;}
+    .dash-overlay2 .right-content{padding-top: 23px;}
+    .dash-overlay2 .right-content i{ font-size: 10px; padding: 5px 3px; transform:translateY(-8px) ; -webkit-transform:translateY(-8px) ; -moz-transform:translateY(-8px) ; -ms-transform:translateY(-8px) ; -o-transform:translateY(-8px) ; }
+    .dash-overlay2 .right-content .icon{width: 20px;height: 20px;margin-top: 0 !important;}
+    .dash-overlay2 .notification{margin-top: 0 !important;}
+    .dash-overlay2 .notification h3,.dash-overlay2 .certification h4{font-size: 13px;}
+    .dash-overlay2 .content p,.dash-overlay2 .certification-titel p{font-size: 6px;margin-left: 2px !important;}
+    .dash-overlay2 .content i,.dash-overlay2 .certification-titel i{font-size: 10px; padding: 3px 4px; margin: 7px 8px 7px 0;}
+    .dash-overlay2 .calendar{margin-top: 0 !important;}
+    .dash-overlay2 .certification-content{margin-top: 10px !important;}
+    .dash-overlay2 .box-content{ right: 11.5%;;top: 7.5%;}
+    /*main data*/
+    .main-data .left-content{padding: 5px;}
+    .main-data .left-content p,.main-data .right-content span{
+        font-size: 10px;
+    }
+    .main-data .right-content{padding-top: 30px;}
+    .main-data .right-content i{font-size: 13px;padding: 5px 6px;}
+    .main-data .right-content .icon{width: 30px;height: 30px;margin-top: 0 !important;}
+    .main-data .persone-content{padding-bottom: 33px !important;}
+    .main-data .persone-content h6{ padding-top: 0 !important;}
+    .main-data .persone-content button{padding: 2px 25px;font-size: 12px; bottom: 4px;}
+    .main-data .customer {width: 70%;}
+    .main-data .leftMenu ul li i{font-size: 25px;}
+    .main-data .fa-desktop{margin-left: 15px;}
+    .main-data .icon-mirco .fa-address-card{font-size: 30px;}
+    .main-data .icon-mirco span{font-size: 10px;}
+    /*main data 2*/
+    .main-data2 .left-content{padding: 5px;}
+    .main-data2 .left-content p,.main-data2 .right-content span{
+        font-size: 10px;
+    }
+    .main-data2 .right-content{padding-top: 30px;}
+    .main-data2 .right-content i{font-size: 13px;padding: 5px 6px;}
+    .main-data2 .right-content .icon{width: 30px;height: 30px;margin-top: 0 !important;}
+    .main-data2 .persone-content{padding-bottom: 33px !important;}
+    .main-data2 .persone-content h6{ padding-top: 0 !important;}
+    .main-data2 .persone-content button{padding: 2px 25px;font-size: 12px; bottom: 4px;}
+    .main-data2 .customer {width: 70%;}
+    .main-data2 .leftMenu ul li i{font-size: 25px;}
+    .main-data2 .fa-desktop{margin-left: 15px;}
+    .main-data2 .icon-mirco .fa-address-card{font-size: 30px;}
+    .main-data2 .icon-mirco span{font-size: 10px;}
+    .options{top: 61%;}
+    /*main data3*/
+    .main-data3 .left-content{padding: 5px;}
+    .main-data3 .left-content p,.main-data3 .right-content span{ font-size: 10px;}
+    .main-data3 .right-content{padding-top: 30px;}
+    .main-data3 .right-content i{font-size: 13px;padding: 5px 6px;}
+    .main-data3 .right-content .icon{width: 30px;height: 30px;margin-top: 0 !important;}
+    .main-data3 .persone-content{padding-bottom: 33px !important;}
+    .main-data3 .persone-content h6{ padding-top: 0 !important;}
+    .main-data3 .persone-content button{padding: 2px 25px;font-size: 12px; bottom: 4px;}
+    .main-data3 .customer {width: 70%;}
+    .main-data3 .leftMenu ul li i{font-size: 25px;}
+    .main-data3 .fa-desktop{margin-left: 15px;}
+    .main-data3 .icon-mirco .fa-address-card{font-size: 30px;}
+    .main-data3 .icon-mirco span{font-size: 10px;}
+    .main-data3 .options{top: 61%;}
+    /*main data 4*/
+
+    .main-data4 .left-content{padding: 5px;}
+    .main-data4 .left-content p,.main-data4 .right-content span{
+        font-size: 10px;
+    }
+    .main-data4 .right-content{padding-top: 30px;}
+    .main-data4 .right-content i{font-size: 13px;padding: 5px 6px;}
+    .main-data4 .right-content .icon{width: 30px;height: 30px;margin-top: 0 !important;}
+    .main-data4 .persone-content{padding-bottom: 33px !important;}
+    .main-data4 .persone-content h6{ padding-top: 0 !important;}
+    .main-data4 .persone-content button{padding: 2px 25px;font-size: 12px; bottom: 4px;}
+    .main-data4 .customer {width: 70%;}
+    .main-data4 .leftMenu ul li i{font-size: 25px;}
+    .main-data4 .fa-desktop{margin-left: 15px;}
+    .main-data4 .icon-mirco .fa-address-card{font-size: 30px;}
+    .main-data4 .icon-mirco span{font-size: 10px;}
+    .main-data4 .options{top: 61%;}
+    /*main data 5*/
+
+    .main-data5 .left-content{padding: 5px;}
+    .main-data5 .left-content p,.main-data5 .right-content span{font-size: 10px;}
+    .main-data5 .right-content{padding-top: 30px;}
+    .main-data5 .right-content i{font-size: 13px;padding: 5px 6px;}
+    .main-data5 .right-content .icon{width: 30px;height: 30px;margin-top: 0 !important;}
+    .main-data5 .persone-content{padding-bottom: 33px !important;}
+    .main-data5 .persone-content h6{ padding-top: 0 !important;}
+    .main-data5 .persone-content button{padding: 2px 25px;font-size: 12px; bottom: 4px;}
+    .main-data5 .customer {width: 70%;}
+    .main-data5 .leftMenu ul li i{font-size: 25px;}
+    .main-data5 .fa-desktop{margin-left: 15px;}
+    .main-data5 .icon-mirco .fa-address-card{font-size: 30px;}
+    .main-data5 .icon-mirco span{font-size: 10px;}
+    .main-data5 .options{top: 61%;}
+    /*main data 6*/
+    .main-data6 .left-content{padding: 5px;}
+    .main-data6 .left-content p,.main-data6 .right-content span{
+        font-size: 10px;
+    }
+    
+    .main-data6 .right-content{padding-top: 30px;}
+    .main-data6 .right-content i{font-size: 13px;padding: 5px 6px;}
+    .main-data6 .right-content .icon{width: 30px;height: 30px;margin-top: 0 !important;}
+    .main-data6 .persone-content{padding-bottom: 33px !important;}
+    .main-data6 .persone-content h6{ padding-top: 0 !important;}
+    .main-data6 .persone-content button{padding: 2px 25px;font-size: 12px; bottom: 4px;}
+    .main-data6 .customer {width: 70%;}
+    .main-data6 .leftMenu ul li i{font-size: 25px;}
+    .main-data6 .fa-desktop{margin-left: 15px;}
+    .main-data6 .icon-mirco .fa-address-card{font-size: 30px;}
+    .main-data6 .icon-mirco span{font-size: 10px;}
+    .main-data6 .options{top: 61%;}
+    /*standard*/
+    .standard .customer {width: 70%;}
+  .standard .leftMenu ul li i{font-size: 25px;}
+  .standard .fa-desktop{margin-left: 15px;}
+  .standard .icon-mirco .fa-address-card{font-size: 30px;}
+  .standard .icon-mirco span{font-size: 10px;}
+  .standard .left-content{padding: 5px;}
+  .standard .left-content p,.standard .right-content span{font-size: 10px;}
+    
+  .standard .right-content{padding-top: 30px;}
+  .standard .right-content i{font-size: 13px;padding: 5px 6px;}
+  .standard .right-content .icon{width: 30px;height: 30px;margin-top: 0 !important;}
+  /*standard2*/
+  .standard2 .customer {width: 70%;}
+  .standard2 .leftMenu ul li i{font-size: 25px;}
+  .standard2 .fa-desktop{margin-left: 15px;}
+  .standard2 .icon-mirco .fa-address-card{font-size: 30px;}
+  .standard2 .icon-mirco span{font-size: 10px;}
+  .standard2 .left-content{padding: 5px;}
+  .standard2 .left-content p,.standard2 .right-content span{font-size: 14px;}
+    
+  .standard2 .right-content{padding-top: 30px;}
+  .standard2 .right-content i{font-size: 13px;padding: 5px 6px;}
+  .standard2 .right-content .icon{width: 30px;height: 30px;margin-top: 0 !important;}
+  .standard2 .view span{font-size: 0.5rem;} 
+  .standard2 table .fa-eye{font-size: 15px;margin-left:0;}
+  /*sites*/
+  .sites .left-content{padding: 5px;}
+    .sites .left-content p,.sites .right-content span{
+        font-size: 10px;
+    }
+    .sites .right-content{padding-top: 30px;}
+    .sites .right-content i{font-size: 13px;padding: 5px 6px;}
+    .sites .right-content .icon{width: 30px;height: 30px;margin-top: 0 !important;}
+    .sites .persone-content{padding-bottom: 33px !important;}
+    .sites .persone-content h6{ padding-top: 0 !important;}
+    .sites .persone-content button{padding: 2px 25px;font-size: 12px; bottom: 4px;}
+    .sites .customer {width: 70%;}
+    .sites .leftMenu ul li i{font-size: 25px;}
+    .sites .fa-desktop{margin-left: 15px;}
+    .sites .icon-mirco .fa-address-card{font-size: 30px;}
+    .sites .icon-mirco span{font-size: 10px;}
+    /*sites location*/
+    .sites-location .left-content{padding: 5px;}
+    .sites-location .left-content p,.sites-location .right-content span{
+        font-size: 10px;
+    }
+    .sites-location .right-content{padding-top: 30px;}
+    .sites-location .right-content i{font-size: 13px;padding: 5px 6px;}
+    .sites-location .right-content .icon{width: 30px;height: 30px;margin-top: 0 !important;}
+    .sites-location .persone-content{padding-bottom: 33px !important;}
+    .sites-location .persone-content h6{ padding-top: 0 !important;}
+    .sites-location .persone-content button{padding: 2px 25px;font-size: 12px; bottom: 4px;}
+    .sites-location .customer {width: 70%;}
+    .sites-location .leftMenu ul li i{font-size: 25px;}
+    .sites-location .fa-desktop{margin-left: 15px;}
+    .sites-location .icon-mirco .fa-address-card{font-size: 30px;}
+    .sites-location .icon-mirco span{font-size: 10px;}
+    /*sites 2*/
+    .sites2 .left-content{padding: 5px;}
+    .sites2 .left-content p,.sites2 .right-content span{
+        font-size: 10px;
+    }
+    .sites2 .right-content{padding-top: 30px;}
+    .sites2 .right-content i{font-size: 13px;padding: 5px 6px;}
+    .sites2 .right-content .icon{width: 30px;height: 30px;margin-top: 0 !important;}
+    .sites2 .persone-content{padding-bottom: 33px !important;}
+    .sites2 .persone-content h6{ padding-top: 0 !important;}
+    .sites2 .persone-content button{padding: 2px 25px;font-size: 12px; bottom: 4px;}
+    .sites2 .customer {width: 70%;}
+    .sites2 .leftMenu ul li i{font-size: 25px;}
+    .sites2 .fa-desktop{margin-left: 15px;}
+    .sites2 .icon-mirco .fa-address-card{font-size: 30px;}
+    .sites2 .icon-mirco span{font-size: 10px;}
+     /*aduit-newRequest2*/
+    .aduit-newReques2 .customer {width: 68%;}
+    .aduit-newReques2 .left-content{padding: 5px;}
+    .aduit-newReques2 .left-content p,.aduit-newReques2 .right-content span{font-size: 10px; }
+    .aduit-newReques2 .leftMenu ul li i{font-size: 25px;}
+    .aduit-newReques2 .fa-desktop{margin-left: 15px;}
+    .aduit-newReques2 .right-content{padding-top: 23px;}
+    .aduit-newReques2 .right-content .icon-right i{ font-size: 10px; padding: 5px 3px; transform:translateY(-8px) ; -webkit-transform:translateY(-8px) ; -moz-transform:translateY(-8px) ; -ms-transform:translateY(-8px) ; -o-transform:translateY(-8px) ; }
+    .aduit-newReques2 .right-content .icon-right{width: 20px;height: 20px;margin-top: 0 !important;}
+    .aduit-newReques2 .new{height: 1050px;}
+    .aduit-newReques2 .days{padding-left: 0;}
+    /*reset password*/
+    .reset-password .left-content{padding: 5px;}
+    .reset-password .left-content p,.reset-password .right-content span{font-size: 10px;}
+    .reset-password .right-content{padding-top: 30px;}
+    .reset-password .right-content i{font-size: 13px;padding: 5px 6px;}
+    .reset-password .right-content .icon{width: 30px;height: 30px;margin-top: 0 !important;}
+    .reset-password .persone-content{padding-bottom: 33px !important;}
+    .reset-password .persone-content h6{ padding-top: 0 !important;}
+    .reset-password .persone-content button{padding: 2px 25px;font-size: 12px; bottom: 4px;}
+    .reset-password .customer {width: 70%;}
+    .reset-password .leftMenu ul li i{font-size: 25px;}
+    .reset-password .fa-desktop{margin-left: 15px;}
+    .reset-password .icon-mirco .fa-address-card{font-size: 30px;}
+    .reset-password .icon-mirco span{font-size: 10px;}
+    .reset-password .new{min-height: 220px;}
+    /*desktop*/
+    .desktop .left-content{padding: 5px;}
+    .desktop .left-content p,.desktop .right-content span{font-size: 10px;}
+    .desktop .right-content{padding-top: 30px;}
+    .desktop .right-content i{font-size: 13px;padding: 5px 6px;}
+    .desktop .right-content .icon{width: 30px;height: 30px;margin-top: 0 !important;}
+    .desktop .persone-content{padding-bottom: 33px !important;}
+    .desktop .persone-content h6{ padding-top: 0 !important;}
+    .desktop .persone-content button{padding: 2px 25px;font-size: 12px; bottom: 4px;}
+    .desktop .customer {width: 70%;}
+    .desktop .leftMenu ul li i{font-size: 25px;}
+    .desktop .fa-desktop{margin-left: 15px;}
+    .desktop .icon-mirco .fa-address-card{font-size: 30px;}
+    .desktop .icon-mirco span{font-size: 10px;}
+    .desktop .options{top: 61%;}
+    .desktop .three{ margin-top: 4px;}
+    /*product 2*/
+    .product2 .customer {width: 70%;}
+    .product2 .leftMenu ul li i{font-size: 25px;}
+    .product2 .fa-desktop{margin-left: 15px;}
+    .product2 .icon-mirco .fa-address-card{font-size: 30px;}
+    .product2 .icon-mirco span{font-size: 10px;}
+    .product2 .left-content{padding: 5px;}
+    .product2 .left-content p,.product2 .right-content span{font-size: 14px;}
+    .product2 .right-content{padding-top: 30px;}
+    .product2 .right-content i{font-size: 13px;padding: 5px 6px;}
+    .product2 .right-content .icon{width: 30px;height: 30px;margin-top: 0 !important;}
+    .product2 .view span{font-size: 0.5rem;}
+    .product2 table .fa-eye{font-size: 15px;margin-left: 0;}
+    /*product*/
+    .product .customer {width: 70%;}
+    .product .leftMenu ul li i{font-size: 25px;}
+    .product .fa-desktop{margin-left: 15px;}
+    .product .icon-mirco .fa-address-card{font-size: 30px;}
+    .product .icon-mirco span{font-size: 10px;}
+    .product .left-content{padding: 5px;}
+    .product .left-content p,.product .right-content span{font-size: 14px;}  
+    .product .right-content{padding-top: 30px;}
+    .product .right-content i{font-size: 13px;padding: 5px 6px;}
+    .product .right-content .icon{width: 30px;height: 30px;margin-top: 0 !important;}
+    /*menue overlay*/
+    .menue-ovrlay .customer {width: 68%;}
+    .menue-ovrlay .left-content{padding: 5px;}
+    .menue-ovrlay .left-content p,.menue-ovrlay .right-content span{font-size: 10px;}
+    .menue-ovrlay .leftMenu ul li i{font-size: 25px;}
+    .menue-ovrlay .fa-desktop{margin-left: 15px;}
+    .menue-ovrlay .right-content{padding-top: 30px;}
+      .menue-ovrlay .right-content i{ font-size: 10px; padding: 5px 3px; transform:translateY(-8px) ; -webkit-transform:translateY(-8px) ; -moz-transform:translateY(-8px) ; -ms-transform:translateY(-8px) ; -o-transform:translateY(-8px) ; }
+      .menue-ovrlay .right-content .icon{width: 20px;height: 20px;margin-top: 0 !important;}
+      .menue-ovrlay .boxes{margin-top: 15px !important;}
+      .menue-ovrlay .box{padding: 30px !important; margin-bottom: 8px !important;}
+      .menue-ovrlay .box p{font-size: 15px;}
+      .menue-ovrlay .box i{font-size: 30px;}
+      .menue-ovrlay .box .icon{width: 50px;height: 50px; line-height: 50px;}
+      .menue-ovrlay .box .icon i{font-size: 30px;}
+      .menue-ovrlay .box-content{ right: 11.5%;width: 40%;top: 13.5%;}
+         /*menue1*/
+         .menue1 .customer {width: 68%;}
+         .menue1 .left-content{padding: 5px;}
+           .menue1 .left-content p,.menue1 .right-content span{font-size: 10px;}
+           .menue1 .leftMenu ul li i{font-size: 25px;}
+           .menue1 .fa-desktop{margin-left: 15px;}
+           .menue1 .right-content{padding-top: 30px;}
+           .menue1 .right-content i{font-size: 13px;padding: 5px 6px;}
+           .menue1 .right-content .icon{width: 30px;height: 30px;margin-top: 0 !important;}
+           .menue1 .boxes{margin-top: 15px !important;}
+           .menue1 .box{padding: 30px !important; margin-bottom: 8px !important;}
+           .menue1 .box p{font-size: 15px;}
+           .menue1 .box i{font-size: 30px;}
+           .menue1 .box .icon{width: 50px;height: 50px; line-height: 50px;}
+           
+           .menue1 .box .icon i{font-size: 30px;}
+    /*menue overlay*/
+    .menue-ovrlay .customer {width: 68%;}
+    .menue-ovrlay .left-content{padding: 5px;}
+    .menue-ovrlay .left-content p,.menue-ovrlay .right-content span{font-size: 10px;}
+    .menue-ovrlay .leftMenu ul li i{font-size: 25px;}
+    .menue-ovrlay .fa-desktop{margin-left: 15px;}
+    .menue-ovrlay .right-content{padding-top: 30px;}
+      .menue-ovrlay .right-content i{ font-size: 10px; padding: 5px 3px; transform:translateY(-8px) ; -webkit-transform:translateY(-8px) ; -moz-transform:translateY(-8px) ; -ms-transform:translateY(-8px) ; -o-transform:translateY(-8px) ; }
+      .menue-ovrlay .right-content .icon{width: 20px;height: 20px;margin-top: 0 !important;}
+      .menue-ovrlay .boxes{margin-top: 15px !important;}
+      .menue-ovrlay .box{padding: 30px !important; margin-bottom: 8px !important;}
+      .menue-ovrlay .box p{font-size: 15px;}
+      .menue-ovrlay .box i{font-size: 30px;}
+      .menue-ovrlay .box .icon{width: 50px;height: 50px; line-height: 50px;}
+      
+      .menue-ovrlay .box .icon i{font-size: 30px;}
+      .menue-ovrlay .box-content{ right: 11.5%;width: 40%;top: 13.5%;}
+}
+@media all and (Min-width:601px) and (Max-width:768px) {
+  /*dash overlay*/
+    .dash-overlay2 .customer {width: 68%;}
+    .dash-overlay2 .right-content{padding-top: 30px;}
+    .dash-overlay2 .left-content{padding: 8px;}
+    .dash-overlay2 .left-content p,.dash-overlay2 .right-content span{font-size: 12px;}
+    .dash-overlay2 .right-content i{ font-size: 10px; padding: 5px 3px; transform:translateY(-8px) ; -webkit-transform:translateY(-8px) ; -moz-transform:translateY(-8px) ; -ms-transform:translateY(-8px) ; -o-transform:translateY(-8px) ; }
+    .dash-overlay2 .right-content .icon{width: 20px;height: 20px;margin-top: 0 !important;}
+    .dash-overlay2 .notification h3{font-size: 15px;}
+    .dash-overlay2 .content p,.dash-overlay2 .certification-titel p{font-size: 11px;margin-left: 5px !important;}
+    .dash-overlay2 .content i,.dash-overlay2 .certification-titel i{font-size: 10px; padding: 3px 4px; margin: 7px 8px 7px 0;}
+    .dash-overlay2 .box-content{right: 13%;top:6%;}
+     /*menue-ovrlay*/
+    .menue-ovrlay .customer {width: 68%;}
+    .menue-ovrlay .right-content{padding-top: 40px;}
+    .menue-ovrlay .left-content{padding: 8px;}
+    .menue-ovrlay .left-content p,.menue-ovrlay .right-content span{font-size: 12px;}
+    .menue-ovrlay .right-content i{ font-size: 10px; padding: 5px 3px; transform:translateY(-8px) ; -webkit-transform:translateY(-8px) ; -moz-transform:translateY(-8px) ; -ms-transform:translateY(-8px) ; -o-transform:translateY(-8px) ; }
+    .menue-ovrlay .right-content .icon{width: 20px;height: 20px;margin-top: 0 !important;}
+    .menue-ovrlay .boxes{margin-top: 15px !important;}
+      .menue-ovrlay .box{padding: 30px !important; margin-bottom: 8px !important;}
+      .menue-ovrlay .box p{font-size: 15px;}
+      .menue-ovrlay .box i{font-size: 30px;}
+      .menue-ovrlay .box .icon{width: 50px;height: 50px; line-height: 50px;}
+      .menue-ovrlay .box .icon i{font-size: 30px;}
+      .menue-ovrlay .box-content{right: 11.5%;top: 14.5%;}
+           /*menue1*/
+           .menue1 .customer {width: 68%;}
+           .menue1 .right-content{padding-top: 40px;}
+           .menue1 .left-content{padding: 8px;}
+           .menue1 .left-content p,.menue1 .right-content span{font-size: 15px;}
+           .menue1 .right-content i{font-size: 22px;padding: 7px 11px;}
+           .menue1 .right-content .icon{margin-top: 0 !important;}
+           .menue1 .boxes{margin-top: 15px !important;}
+             .menue1 .box{padding: 30px !important; margin-bottom: 8px !important;}
+             .menue1 .box p{font-size: 15px;}
+             .menue1 .box i{font-size: 30px;}
+             .menue1 .box .icon{width: 50px;height: 50px; line-height: 50px;}
+             
+             .menue1 .box .icon i{font-size: 30px;}
+    /*menue overlay*/
+    .menue-ovrlay .customer {width: 68%;}
+    .menue-ovrlay .right-content{padding-top: 40px;}
+    .menue-ovrlay .left-content{padding: 8px;}
+    .menue-ovrlay .left-content p,.menue-ovrlay .right-content span{font-size: 12px;}
+    .menue-ovrlay .right-content i{ font-size: 10px; padding: 5px 3px; transform:translateY(-8px) ; -webkit-transform:translateY(-8px) ; -moz-transform:translateY(-8px) ; -ms-transform:translateY(-8px) ; -o-transform:translateY(-8px) ; }
+    .menue-ovrlay .right-content .icon{width: 20px;height: 20px;margin-top: 0 !important;}
+    .menue-ovrlay .boxes{margin-top: 15px !important;}
+      .menue-ovrlay .box{padding: 30px !important; margin-bottom: 8px !important;}
+      .menue-ovrlay .box p{font-size: 15px;}
+      .menue-ovrlay .box i{font-size: 30px;}
+      .menue-ovrlay .box .icon{width: 50px;height: 50px; line-height: 50px;}
+      
+      .menue-ovrlay .box .icon i{font-size: 30px;}
+      .menue-ovrlay .box-content{right: 11.5%;top: 14.5%;}
+
+  }
+  @media all and (Min-width:769px) and (Max-width:992px) {
+    /*dash overlay*/
+    
+    .dash-overlay2 .customer {width: 75%;}
+    .dash-overlay2 .right-content{padding-top: 30px;}
+    .dash-overlay2 .left-content{padding: 8px;}
+    .dash-overlay2 .left-content p,.dash-overlay2 .right-content span{font-size: 15px;}
+    .dash-overlay2 .right-content i{font-size: 22px;padding: 7px 11px;}
+    .dash-overlay2 .right-content .icon{margin-top: 0 !important;}
+    .dash-overlay2 .notification h3{font-size: 15px;}
+    .dash-overlay2 .content p,.dash-overlay2 .certification-titel p{font-size: 11px;margin-left: 5px !important;}
+    .dash-overlay2 .content i,.dash-overlay2 .certification-titel i{font-size: 10px; padding: 3px 4px; margin: 7px 8px 7px 0;}
+    .dash-overlay2 .box-content{right: 11.5%;top: 8.5%;}
+    /*menue-ovrlay*/
+        .menue-ovrlay .customer {width: 75%;}
+        .menue-ovrlay .right-content{padding-top: 40px;}
+        .menue-ovrlay .left-content{padding: 8px;}
+        .menue-ovrlay .left-content p,.menue-ovrlay .right-content span{font-size: 15px;}
+        .menue-ovrlay .right-content i{font-size: 22px;padding: 7px 11px;}
+        .menue-ovrlay .right-content .icon{margin-top: 0 !important;}
+        .menue-ovrlay .boxes{margin-top: 15px !important;}
+        .menue-ovrlay .box{padding: 30px !important; margin-bottom: 8px !important;}
+        .menue-ovrlay .box p{font-size: 15px;}
+        .menue-ovrlay .box i{font-size: 30px;}
+        .menue-ovrlay .box .icon{width: 50px;height: 50px; line-height: 50px;}    
+        .menue-ovrlay .box .icon i{font-size: 30px;}
+        .menue-ovrlay .box-content{right: 11.5%;top: 18.5%;}
+                   /*menue1*/ 
+        .menue1 .customer {width: 75%;}
+        .menue1 .right-content{padding-top: 40px;}
+         .menue1 .left-content{padding: 8px;}
+         .menue1 .left-content p,.right-content span{font-size: 15px;}
+         .menue1 .right-content i{font-size: 22px;padding: 7px 11px;}
+         .menue1 .right-content .icon{margin-top: 0 !important;}
+         .menue1 .boxes{margin-top: 15px !important;}
+        .menue1 .box{padding: 30px !important; margin-bottom: 8px !important;}
+        .menue1 .box p{font-size: 15px;}
+        .menue1 .box i{font-size: 30px;}
+        .menue1 .box .icon{width: 50px;height: 50px; line-height: 50px;}
+                       
+         .menue1 .box .icon i{font-size: 30px;}
+      /*menue overlay*/
+      .menue-ovrlay .customer {width: 75%;}
+      .menue-ovrlay .right-content{padding-top: 40px;}
+      .menue-ovrlay .left-content{padding: 8px;}
+      .menue-ovrlay .left-content p,.menue-ovrlay .right-content span{font-size: 15px;}
+      .menue-ovrlay .right-content i{font-size: 22px;padding: 7px 11px;}
+      .menue-ovrlay .right-content .icon{margin-top: 0 !important;}
+      .menue-ovrlay .boxes{margin-top: 15px !important;}
+          .menue-ovrlay .box{padding: 30px !important; margin-bottom: 8px !important;}
+          .menue-ovrlay .box p{font-size: 15px;}
+          .menue-ovrlay .box i{font-size: 30px;}
+          .menue-ovrlay .box .icon{width: 50px;height: 50px; line-height: 50px;}
+          
+          .menue-ovrlay .box .icon i{font-size: 30px;}
+          .menue-ovrlay .box-content{right: 11.5%;top: 18.5%;}
+  }
+@media all and (Min-width:601px) and (Max-width:992px){
+  /*main data 2*/
+  .main-data2 .customer {width: 80%;}
+  .main-data2 .left-content{padding: 5px;}
+  .main-data2 .left-content p,.main-data2 .main-data2 .right-content span{ font-size: 10px;}
+  .main-data2 .right-content{padding-top: 30px;}
+  .main-data2 .right-content i{font-size: 13px;padding: 5px 6px;}
+  .main-data2 .right-content .icon{width: 30px;height: 30px;margin-top: 0 !important;}
+  .main-data2 .persone-content{padding-bottom: 33px !important;}
+  .main-data2 .persone-content h6{ padding-top: 0 !important;}
+  .main-data2 .persone-content button{padding: 2px 25px;font-size: 12px; bottom: 4px;}
+  .main-data2 .leftMenu ul li i{font-size: 25px;}
+  .main-data2 .fa-desktop{margin-left: 15px;}
+  .main-data2 .icon-mirco .fa-address-card{font-size: 30px;}
+  .main-data2 .icon-mirco span{font-size: 10px;}
+  /*main data3*/
+  .main-data3 .customer {width: 80%;}
+  .main-data3 .left-content{padding: 5px;}
+  .main-data3 .left-content p,.main-data3 .right-content span{font-size: 10px;}
+  .main-data3 .right-content{padding-top: 30px;}
+  .main-data3 .right-content i{font-size: 13px;padding: 5px 6px;}
+  .main-data3 .right-content .icon{width: 30px;height: 30px;margin-top: 0 !important;}
+  .main-data3 .persone-content{padding-bottom: 33px !important;}
+  .main-data3 .persone-content h6{ padding-top: 0 !important;}
+  .main-data3 .persone-content button{padding: 2px 25px;font-size: 12px; bottom: 4px;}
+  .main-data3 .leftMenu ul li i{font-size: 25px;}
+  .main-data3 .fa-desktop{margin-left: 15px;}
+  .main-data3 .icon-mirco .fa-address-card{font-size: 30px;}
+  .main-data3 .icon-mirco span{font-size: 10px;}
+  /*main data 4*/
+  .main-data4 .customer {width: 80%;}
+    .main-data4 .left-content{padding: 5px;}
+    .main-data4 .left-content p,.main-data4 .right-content span{font-size: 10px;}
+    .main-data4 .right-content{padding-top: 30px;}
+    .main-data4 .right-content i{font-size: 13px;padding: 5px 6px;}
+    .main-data4 .right-content .icon{width: 30px;height: 30px;margin-top: 0 !important;}
+    .main-data4 .persone-content{padding-bottom: 33px !important;}
+    .main-data4 .persone-content h6{ padding-top: 0 !important;}
+    .main-data4 .persone-content button{padding: 2px 25px;font-size: 12px; bottom: 4px;}
+    .main-data4 .leftMenu ul li i{font-size: 25px;}
+    .main-data4 .fa-desktop{margin-left: 15px;}
+    .main-data4 .icon-mirco .fa-address-card{font-size: 30px;}
+    .main-data4 .icon-mirco span{font-size: 10px;}
+    /*main data 5*/
+    .main-data5 .customer {width: 80%;}
+    .main-data5 .left-content{padding: 5px;}
+    .main-data5 .left-content p,.main-data5 .right-content span{font-size: 10px;}
+    .main-data5 .right-content{padding-top: 30px;}
+    .main-data5 .right-content i{font-size: 13px;padding: 5px 6px;}
+    .main-data5 .right-content .icon{width: 30px;height: 30px;margin-top: 0 !important;}
+    .main-data5 .persone-content{padding-bottom: 33px !important;}
+    .main-data5 .persone-content h6{ padding-top: 0 !important;}
+    .main-data5 .persone-content button{padding: 2px 25px;font-size: 12px; bottom: 4px;}
+    .main-data5 .leftMenu ul li i{font-size: 25px;}
+    .main-data5 .fa-desktop{margin-left: 15px;}
+    .main-data5 .icon-mirco .fa-address-card{font-size: 30px;}
+    .main-data5 .icon-mirco span{font-size: 10px;}
+    /*main data 6*/
+    .main-data6 .customer {width: 80%;}
+    .main-data6 .left-content{padding: 5px;}
+    .main-data6 .left-content p,.main-data6 .right-content span{
+        font-size: 10px;
+    }
+    .main-data6 .right-content{padding-top: 30px;}
+    .main-data6 .right-content i{font-size: 13px;padding: 5px 6px;}
+    .main-data6 .right-content .icon{width: 30px;height: 30px;margin-top: 0 !important;}
+    .main-data6 .persone-content{padding-bottom: 33px !important;}
+    .main-data6 .persone-content h6{ padding-top: 0 !important;}
+    .main-data6 .persone-content button{padding: 2px 25px;font-size: 12px; bottom: 4px;}
+    .main-data6 .leftMenu ul li i{font-size: 25px;}
+    .main-data6 .fa-desktop{margin-left: 15px;}
+    .main-data6 .icon-mirco .fa-address-card{font-size: 30px;}
+    .main-data6 .icon-mirco span{font-size: 10px;}
+    /*standard*/
+    .standard .customer {width: 80%;}
+  .standard .leftMenu ul li i{font-size: 25px;}
+  .standard .fa-desktop{margin-left: 15px;}
+  .standard .icon-mirco .fa-address-card{font-size: 30px;}
+  .standard .icon-mirco span{font-size: 10px;}
+  .standard .left-content{padding: 5px;}
+  .standard .right-content{padding-top: 30px;}
+  .standard .left-content{padding: 8px;}
+  .standard .left-content p,.right-content span{font-size: 12px;}
+  .standard .right-content i{font-size: 22px;padding: 7px 11px;}
+  /*standard 2*/
+  .standard2 .customer {width: 80%;}
+  .standard2 .leftMenu ul li i{font-size: 25px;}
+  .standard2 .fa-desktop{margin-left: 15px;}
+  .standard2 .icon-mirco .fa-address-card{font-size: 30px;}
+  .standard2 .icon-mirco span{font-size: 10px;}
+  .standard2 .left-content{padding: 5px;}
+  .standard2 .right-content{padding-top: 30px;}
+  .standard2 .left-content{padding: 8px;}
+  .standard2 .left-content p,.standard2 .right-content span{font-size: 15px;}
+  .standard2 .right-content i{font-size: 22px;padding: 7px 11px;}
+  .standard2 .view span{font-size: 0.5rem;}
+  .standard2 .right-content .icon{margin-top: 0 !important;}
+  .standard2 table .fa-eye{font-size: 15px;margin-left: 0;}
+  /*sites*/
+  .sites .customer {width: 80%;}
+  .sites .left-content{padding: 5px;}
+  .sites .left-content p,.sites .right-content span{
+      font-size: 10px;
+  }
+  .sites .right-content{padding-top: 30px;}
+  .sites .right-content i{font-size: 13px;padding: 5px 6px;}
+  .sites .right-content .icon{width: 30px;height: 30px;margin-top: 0 !important;}
+  .sites .persone-content{padding-bottom: 33px !important;}
+  .sites .persone-content h6{ padding-top: 0 !important;}
+  .sites .persone-content button{padding: 2px 25px;font-size: 12px; bottom: 4px;}
+  .sites .leftMenu ul li i{font-size: 25px;}
+  .sites .fa-desktop{margin-left: 15px;}
+  .sites .icon-mirco .fa-address-card{font-size: 30px;}
+  .sites .icon-mirco span{font-size: 10px;}
+  /*sites location*/
+  .sites-location .customer {width: 80%;}
+    .sites-location .left-content{padding: 5px;}
+    .sites-location .left-content p,.right-content span{
+        font-size: 10px;
+    }
+    .sites-location .right-content{padding-top: 30px;}
+    .sites-location .right-content i{font-size: 13px;padding: 5px 6px;}
+    .sites-location .right-content .icon{width: 30px;height: 30px;margin-top: 0 !important;}
+    .sites-location .persone-content{padding-bottom: 33px !important;}
+    .sites-location .persone-content h6{ padding-top: 0 !important;}
+    .sites-location .persone-content button{padding: 2px 25px;font-size: 12px; bottom: 4px;}
+    .sites-location .leftMenu ul li i{font-size: 25px;}
+    .sites-location .fa-desktop{margin-left: 15px;}
+    .sites-location .icon-mirco .fa-address-card{font-size: 30px;}
+    .sites-location .icon-mirco span{font-size: 10px;}
+    /*sites 2*/
+    .sites2 .customer {width: 80%;}
+    .sites2 .left-content{padding: 5px;}
+    .sites2 .left-content p,.sites2 .right-content span{font-size: 10px;}
+    .sites2 .right-content{padding-top: 30px;}
+    .sites2 .right-content i{font-size: 13px;padding: 5px 6px;}
+    .sites2 .right-content .icon{width: 30px;height: 30px;margin-top: 0 !important;}
+    .sites2 .persone-content{padding-bottom: 33px !important;}
+    .sites2 .persone-content h6{ padding-top: 0 !important;}
+    .sites2 .persone-content button{padding: 2px 25px;font-size: 12px; bottom: 4px;}
+    .sites2 .leftMenu ul li i{font-size: 25px;}
+    .sites2 .fa-desktop{margin-left: 15px;}
+    .sites2 .icon-mirco .fa-address-card{font-size: 30px;}
+    .sites2 .icon-mirco span{font-size: 10px;}
+    /*reset password*/
+    .reset-password .customer {width: 80%;}
+    .reset-password .left-content{padding: 5px;}
+    .reset-password .left-content p,.reset-password .right-content span{font-size: 10px;}
+    .reset-password .right-content{padding-top: 30px;}
+    .reset-password .right-content i{font-size: 13px;padding: 5px 6px;}
+    .reset-password .right-content .icon{width: 30px;height: 30px;margin-top: 0 !important;}
+    .reset-password .persone-content{padding-bottom: 33px !important;}
+    .reset-password .persone-content h6{ padding-top: 0 !important;}
+    .reset-password .persone-content button{padding: 2px 25px;font-size: 12px; bottom: 4px;}
+    .reset-password .new{min-height: 220px;}
+    .reset-password .leftMenu ul li i{font-size: 25px;}
+    .reset-password .fa-desktop{margin-left: 15px;}
+    .reset-password .icon-mirco .fa-address-card{font-size: 30px;}
+    .reset-password .icon-mirco span{font-size: 10px;}
+    .reset-password .new{min-height: 220px;}
+    /*aduit new request2*/
+    .aduit-newReques2 .customer {width: 68%;}
+    .aduit-newReques2 .left-content{padding: 5px;}
+    .aduit-newReques2 .left-content p,.aduit-newReques2 .right-content span{font-size: 10px; }
+    .aduit-newReques2 .leftMenu ul li i{font-size: 25px;}
+    .aduit-newReques2 .fa-desktop{margin-left: 15px;}
+    .aduit-newReques2 .right-content{padding-top: 23px;}
+    .aduit-newReques2 .right-content .icon-right i{ font-size: 10px; padding: 5px 3px; transform:translateY(-8px) ; -webkit-transform:translateY(-8px) ; -moz-transform:translateY(-8px) ; -ms-transform:translateY(-8px) ; -o-transform:translateY(-8px) ; }
+    .aduit-newReques2 .right-content .icon-right{width: 20px;height: 20px;margin-top: 0 !important;}
+    .aduit-newReques2 .new{height: 1050px;}
+    .aduit-newReques2 .days{padding-left: 0;}
+    /*desktop*/
+    .desktop .customer {width: 80%;}
+    .desktop .left-content{padding: 5px;}
+    .desktop .left-content p,.desktop .right-content span{font-size: 10px;}
+    .desktop .right-content{padding-top: 30px;}
+    .desktop .right-content i{font-size: 13px;padding: 5px 6px;}
+    .desktop .right-content .icon{width: 30px;height: 30px;margin-top: 0 !important;}
+    .desktop .persone-content{padding-bottom: 33px !important;}
+    .desktop .persone-content h6{ padding-top: 0 !important;}
+    .desktop .persone-content button{padding: 2px 25px;font-size: 12px; bottom: 4px;}
+    .desktop .leftMenu ul li i{font-size: 25px;}
+    .desktop .fa-desktop{margin-left: 15px;}
+    .desktop .icon-mirco .fa-address-card{font-size: 30px;}
+    .desktop .icon-mirco span{font-size: 10px;}
+    /*product 2*/
+    .product2 .product2 .customer {width: 80%;}
+    .product2 .leftMenu ul li i{font-size: 25px;}
+    .product2 .fa-desktop{margin-left: 15px;}
+    .product2 .icon-mirco .fa-address-card{font-size: 30px;}
+    .product2 .icon-mirco span{font-size: 10px;}
+    .product2 .left-content{padding: 5px;}
+    .product2 .right-content{padding-top: 30px;}
+    .product2 .left-content{padding: 8px;}
+    .product2 .left-content p,.product2 .right-content span{font-size: 15px;}
+    .product2 .right-content i{font-size: 22px;padding: 7px 11px;}
+    .product2 .right-content .icon{margin-top: 0 !important;}
+    .product2 .view span{font-size: 0.5rem;}
+    .product2 table .fa-eye{font-size: 15px;margin-left: 0;}
+    /*product*/
+    .product .customer {width: 80%;}
+    .product .leftMenu ul li i{font-size: 25px;}
+    .product .fa-desktop{margin-left: 15px;}
+    .product .icon-mirco .fa-address-card{font-size: 30px;}
+    .product .icon-mirco span{font-size: 10px;}
+    .product .left-content{padding: 5px;}
+    .product .right-content{padding-top: 30px;}
+    .product .left-content{padding: 8px;}
+    .product .left-content p,.product .right-content span{font-size: 15px;}
+    .product .right-content i{font-size: 22px;padding: 7px 11px;}
+    .product .right-content .icon{margin-top: 0 !important;}
+    /*aduit overlay*/
+    .aduit-overlay .customer {width: 68%;}
+    .aduit-overlay .left-content{padding: 8px;}
+    .aduit-overlay .left-content p,.aduit-overlay .right-content span{font-size: 12px;}
+    .menue-ovrlay .leftMenu ul li i{font-size: 25px;}
+    .menue-ovrlay .fa-desktop{margin-left: 15px;}
+    .aduit-overlay .right-content{padding-top: 40px;}
+    .aduit-overlay .right-content i{ font-size: 10px; padding: 5px 3px; transform:translateY(-8px) ; -webkit-transform:translateY(-8px) ; -moz-transform:translateY(-8px) ; -ms-transform:translateY(-8px) ; -o-transform:translateY(-8px) ; }
+    .aduit-overlay .right-content .icon{width: 20px;height: 20px;margin-top: 0 !important;}
+    .aduit-overlay .box-content{ top: 13.5%;right: 13%;}
+}
+
+
+@media all and (Max-width:992px)
+{
+    /*add product*/
+    .add-product .right-content{padding-top: 30px;}
+    .add-product .right-content i{font-size: 13px;padding: 5px 6px;}
+    .add-product .right-content .icon{width: 30px;height: 30px;margin-top: 0 !important;}
+    .add-product .left-content{padding: 5px;}
+    .add-product .left-content p,.add-product .right-content span{font-size: 10px;}
+    .add-product .new-content .col-lg-4{ margin-top: 0 !important;}
+  .add-product .new-content .text{margin-top: 5px;}
+  .add-product .file{margin-bottom: 40px !important;}
+  .add-product .new-content .save{bottom: -53px; right: 5%;}
+
+  /*add product 2*/
+  .add-product2 .right-content{padding-top: 30px;}
+  .add-product2 .right-content i{font-size: 13px;padding: 5px 6px;}
+  .add-product2 .right-content .icon{width: 30px;height: 30px;margin-top: 0 !important;}
+  .add-product2 .left-content{padding: 5px;}
+  .add-product2 .left-content p,.add-product2 .right-content span{font-size: 10px; }
+  .add-product2 .new-content .col-lg-4{margin-top: 0 !important;}
+    .add-product2 .new-content .text{margin-top: 5px;}
+    .add-product2 .file{margin-bottom: 40px !important;}
+    .add-product2 .new-content .save{bottom: -15px; right: 5%;}
+    /*add product3*/
+       .add-product3 .right-content{padding-top: 30px;}
+        .add-product3 .right-content i{font-size: 13px;padding: 5px 6px;}
+        .add-product3 .right-content .icon{width: 30px;height: 30px;margin-top: 0 !important;}
+        .add-product3 .left-content{padding: 5px;}
+        .add-product3 .left-content p,.add-product3 .right-content span{font-size: 10px;}
+        .add-product3 .new-content .col-lg-4{margin-top: 0 !important;}
+        .add-product3 .file{margin-bottom: 40px !important;}
+        .add-product3 .new-content .save{bottom: 3px; right: 5%;}
+    /*add product 4*/
+    .add-product4 .right-content{padding-top: 30px;}
+    .add-product4 .right-content i{font-size: 13px;padding: 5px 6px;}
+    .add-product4 .right-content .icon{width: 30px;height: 30px;margin-top: 0 !important;}
+    .add-product4 .left-content{padding: 5px;}
+    .add-product4 .left-content p,.add-product4 .right-content span{ font-size: 10px;}
+    .add-product4 .new-content .col-lg-4{margin-top: 0 !important;}
+  .add-product4 .file{margin-bottom: 40px !important;}
+  .add-product4 .new-content .save{bottom: 3px; right: 5%;}
+  /*add site 1*/
+  .add-site1 .right-content{padding-top: 30px;}
+  .add-site1 .right-content i{font-size: 13px;padding: 5px 6px;}
+  .add-site1 .right-content .icon{width: 30px;height: 30px;margin-top: 0 !important;}
+  .add-site1 .left-content{padding: 5px;}
+  .add-site1 .left-content p,.add-site1 .right-content span{font-size: 10px;}
+  .add-site1 .new-content .col-lg-4{ margin-top: 0 !important;}
+.add-site1 .new-content .text{margin-top: 5px;}
+.add-site1 .new{top: 15%;}
+/*add site2*/
+.add-site2 .right-content{padding-top: 30px;}
+.add-site2 .right-content i{font-size: 13px;padding: 5px 6px;}
+.add-site2 .right-content .icon{width: 30px;height: 30px;margin-top: 0 !important;}
+.add-site2 .left-content{padding: 5px;}
+.add-site2 .left-content p,.add-site2 .right-content span{font-size: 10px;}
+.add-site2 .new-content .col-lg-4{margin-top: 0 !important;}
+.add-site2 .new-content .text{margin-top: 5px;}
+.add-site2 .new{top: 15%;}
+/*add sites3*/
+.add-sites3 .right-content{padding-top: 30px;}
+.add-sites3 .right-content i{font-size: 13px;padding: 5px 6px;}
+.add-sites3 .right-content .icon{width: 30px;height: 30px;margin-top: 0 !important;}
+.add-sites3 .left-content{padding: 5px;}
+.add-sites3 .left-content p,.add-sites3 .right-content span{ font-size: 10px;}
+.add-sites3 .new-content .col-lg-4{margin-top: 0 !important;}
+.add-sites3 .new-content .text{margin-top: 5px;}
+.add-sites3 .new{top: 15%;}
+  /*aduit-newRequest0*/
+  .aduit-newRequest0 .customer {width: 68%;}
+  .aduit-newRequest0 .left-content{padding: 5px;}
+  .aduit-newRequest0 .left-content p,.aduit-newRequest0 .right-content span{font-size: 10px; }
+  .aduit-newRequest0 .leftMenu ul li i{font-size: 25px;}
+  .aduit-newRequest0 .fa-desktop{margin-left: 15px;}
+  .aduit-newRequest0 .right-content{padding-top: 23px;}
+  .aduit-newRequest0 .right-content .icon-right i{ font-size: 10px; padding: 5px 3px; transform:translateY(-8px) ; -webkit-transform:translateY(-8px) ; -moz-transform:translateY(-8px) ; -ms-transform:translateY(-8px) ; -o-transform:translateY(-8px) ; }
+  .aduit-newRequest0 .right-content .icon-right{width: 20px;height: 20px;margin-top: 0 !important;}
+  
+  /*aduit-newRequest1*/ 
+  .aduit-newRequest1 .customer {width: 68%;}
+  .aduit-newRequest1 .left-content{padding: 5px;}
+  .aduit-newRequest1 .left-content p,.aduit-newRequest1 .right-content span{font-size: 10px; }
+  .aduit-newRequest1 .leftMenu ul li i{font-size: 25px;}
+  .aduit-newRequest1 .fa-desktop{margin-left: 15px;}
+  .aduit-newRequest1 .right-content{padding-top: 23px;}
+  .aduit-newRequest1 .right-content .icon-right i{ font-size: 10px; padding: 5px 3px; transform:translateY(-8px) ; -webkit-transform:translateY(-8px) ; -moz-transform:translateY(-8px) ; -ms-transform:translateY(-8px) ; -o-transform:translateY(-8px) ; }
+  .aduit-newRequest1 .right-content .icon-right{width: 20px;height: 20px;margin-top: 0 !important;}
+  .aduit-newRequest1 .new{height: 1100px;}
+  .aduit-newRequest1 .days{padding-left: 0;}
+    /*aduit*/
+    .aduit .customer {width: 80%;}
+    .aduit .left-content{padding: 5px;}
+    .aduit .left-content p,.aduit .right-content span{ font-size: 15px;}
+    .aduit .leftMenu ul li i{font-size: 25px;}
+    .aduit .fa-desktop{margin-left: 15px;}
+    .aduit .leftMenu ul li i{font-size: 25px;}
+    .aduit .fa-desktop{margin-left: 15px;}
+    .aduit .right-content{padding-top: 30px;}
+    .aduit .right-content i{font-size: 13px;padding: 5px 6px;}
+    .aduit .right-content .icon{width: 30px;height: 30px;margin-top: 0 !important;}
+    
+}
+@media all and (Min-width:993px) and (Max-width:1085px){
+  .dash-overlay2 .box-content{right: 6.5%;top: 8.7%;}
+}
